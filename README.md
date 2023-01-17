@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hola, mi nombre es Paula Speciale👋
 
-<!--
-**paulaspeciale/paulaspeciale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ ¿Quién soy? ✨ 
+ ✨ ¿Qué hago? ✨ 
+ ✨ ¿A dónde me dirijo? ✨ 
+ ✨ ¿Qué tecnologías uso? ✨ 
+ No Dudes en Contactarme
+ email linkedin
 
 Here are some ideas to get you started:
 
